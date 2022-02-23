@@ -1,0 +1,6 @@
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\ConsoleApplication(Reboot)\ConsoleApplication(Reboot)\bin\Debug\ConsoleApplication(Reboot).exe.config
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\ConsoleApplication(Reboot)\ConsoleApplication(Reboot)\bin\Debug\ConsoleApplication(Reboot).exe
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\ConsoleApplication(Reboot)\ConsoleApplication(Reboot)\bin\Debug\ConsoleApplication(Reboot).pdb
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\ConsoleApplication(Reboot)\ConsoleApplication(Reboot)\obj\Debug\ConsoleApplication(Reboot).csprojResolveAssemblyReference.cache
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\ConsoleApplication(Reboot)\ConsoleApplication(Reboot)\obj\Debug\ConsoleApplication(Reboot).exe
+D:\Dropbox\Documentación del Laburo\Visual Studio Projects\ConsoleApplication(Reboot)\ConsoleApplication(Reboot)\obj\Debug\ConsoleApplication(Reboot).pdb
